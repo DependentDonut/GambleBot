@@ -1,0 +1,115 @@
+{
+    "1549998505332842517": {
+        "465186769885986816": {
+            "startedAt": 1789630623002,
+            "gamesPlayed": 17,
+            "wins": 5,
+            "losses": 12,
+            "pushes": 0,
+            "totalWagered": 124100,
+            "totalPayout": 96259,
+            "netProfit": -27841,
+            "biggestWin": 40000,
+            "games": {
+                "slots": {
+                    "gamesPlayed": 8,
+                    "wins": 3,
+                    "losses": 5,
+                    "pushes": 0,
+                    "wagered": 70100,
+                    "payout": 70200,
+                    "profit": 100,
+                    "biggestWin": 40000
+                },
+                "ride_the_bus": {
+                    "gamesPlayed": 8,
+                    "wins": 2,
+                    "losses": 6,
+                    "pushes": 0,
+                    "wagered": 44000,
+                    "payout": 26059,
+                    "profit": -17941,
+                    "biggestWin": 12022
+                },
+                "horse_racing": {
+                    "gamesPlayed": 1,
+                    "wins": 0,
+                    "losses": 1,
+                    "pushes": 0,
+                    "wagered": 10000,
+                    "payout": 0,
+                    "profit": -10000,
+                    "biggestWin": 0
+                }
+            }
+        }
+    },
+    "1526834308180873399": {
+        "601105627409809447": {
+            "startedAt": 1789636296597,
+            "gamesPlayed": 4,
+            "wins": 2,
+            "losses": 2,
+            "pushes": 0,
+            "totalWagered": 1600,
+            "totalPayout": 740,
+            "netProfit": -860,
+            "biggestWin": 350,
+            "games": {
+                "ride_the_bus": {
+                    "gamesPlayed": 3,
+                    "wins": 2,
+                    "losses": 1,
+                    "pushes": 0,
+                    "wagered": 1300,
+                    "payout": 740,
+                    "profit": -560,
+                    "biggestWin": 350
+                },
+                "blackjack": {
+                    "gamesPlayed": 1,
+                    "wins": 0,
+                    "losses": 1,
+                    "pushes": 0,
+                    "wagered": 300,
+                    "payout": 0,
+                    "profit": -300,
+                    "biggestWin": 0
+                }
+            }
+        },
+        "465186769885986816": {
+            "startedAt": 1789636400132,
+            "gamesPlayed": 4,
+            "wins": 0,
+            "losses": 4,
+            "pushes": 0,
+            "totalWagered": 928,
+            "totalPayout": 0,
+            "netProfit": -928,
+            "biggestWin": 0,
+            "games": {
+                "slots": {
+                    "gamesPlayed": 3,
+                    "wins": 0,
+                    "losses": 3,
+                    "pushes": 0,
+                    "wagered": 728,
+                    "payout": 0,
+                    "profit": -728,
+                    "biggestWin": 0
+                },
+                "blackjack": {
+                    "gamesPlayed": 1,
+                    "wins": 0,
+                    "losses": 1,
+                    "pushes": 0,
+                    "wagered": 200,
+                    "payout": 0,
+                    "profit": -200,
+                    "biggestWin": 0
+                }
+            }
+        }
+    }
+}

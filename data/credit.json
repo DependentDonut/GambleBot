@@ -1,0 +1,20 @@
+{
+    "1549998505332842517": {
+        "465186769885986816": {
+            "score": 670,
+            "loansRepaid": 1,
+            "bankLoansRepaid": 1,
+            "sharkLoansRepaid": 0,
+            "collections": 0
+        }
+    },
+    "1526834308180873399": {
+        "465186769885986816": {
+            "score": 650,
+            "loansRepaid": 0,
+            "bankLoansRepaid": 0,
+            "sharkLoansRepaid": 0,
+            "collections": 0
+        }
+    }
+}
